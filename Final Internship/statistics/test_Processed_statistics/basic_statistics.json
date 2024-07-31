@@ -1,0 +1,17 @@
+{
+    "Number of examples": 494,
+    "Average text length": 4989.242914979757,
+    "Label distribution": {
+        "LOC": 9,
+        "ABB": 169,
+        "ACTIVITY": 61,
+        "PRODUCT": 111,
+        "PERSON": 31,
+        "DATE": 53,
+        "ORG": 28,
+        "TIME": 11,
+        "FAC": 7,
+        "QUANTITY": 13,
+        "PRODUCTS": 1
+    }
+}

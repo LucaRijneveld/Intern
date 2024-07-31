@@ -1,0 +1,19 @@
+{
+    "Number of examples": 41,
+    "Average text length": 2828.609756097561,
+    "Label distribution": {
+        "LOC": 66,
+        "NORP": 98,
+        "ORG": 2354,
+        "PERSON": 762,
+        "FAC": 73,
+        "DATE": 416,
+        "OTHER": 276,
+        "PRODUCT": 581,
+        "TIME": 56,
+        "QUANTITY": 155,
+        "LAW": 57,
+        "EVENT": 12,
+        "MONEY": 23
+    }
+}

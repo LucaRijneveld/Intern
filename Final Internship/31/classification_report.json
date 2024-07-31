@@ -1,0 +1,69 @@
+{
+    "FAC": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+    },
+    "ACTIVITY": {
+        "precision": 0.8627450980392157,
+        "recall": 0.5641025641025641,
+        "f1-score": 0.6821705426356589,
+        "support": 78.0
+    },
+    "LOC": {
+        "precision": 0.5,
+        "recall": 0.8888888888888888,
+        "f1-score": 0.64,
+        "support": 9.0
+    },
+    "PRODUCT": {
+        "precision": 0.6545454545454545,
+        "recall": 1.0,
+        "f1-score": 0.7912087912087912,
+        "support": 36.0
+    },
+    "PERSON": {
+        "precision": 0.7380952380952381,
+        "recall": 0.96875,
+        "f1-score": 0.8378378378378378,
+        "support": 32.0
+    },
+    "ORG": {
+        "precision": 1.0,
+        "recall": 0.2549019607843137,
+        "f1-score": 0.40625,
+        "support": 51.0
+    },
+    "ABB": {
+        "precision": 0.7040816326530612,
+        "recall": 0.9583333333333334,
+        "f1-score": 0.8117647058823529,
+        "support": 72.0
+    },
+    "QUANTITY": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "DATE": {
+        "precision": 0.9615384615384616,
+        "recall": 1.0,
+        "f1-score": 0.9803921568627451,
+        "support": 100.0
+    },
+    "accuracy": 0.7639593908629442,
+    "macro avg": {
+        "precision": 0.6023339872079368,
+        "recall": 0.6261085274565666,
+        "f1-score": 0.5721804482697095,
+        "support": 394.0
+    },
+    "weighted avg": {
+        "precision": 0.8041231607477395,
+        "recall": 0.7639593908629442,
+        "f1-score": 0.7397681576896259,
+        "support": 394.0
+    }
+}
